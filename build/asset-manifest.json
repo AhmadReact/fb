@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/facebbook/static/css/main.cbe9de9b.css",
-    "main.js": "/facebbook/static/js/main.0a1f26e2.js",
-    "static/media/avatar.jpg": "/facebbook/static/media/avatar.33900b376ff866eb7fe5.jpg",
-    "static/media/logo.svg": "/facebbook/static/media/logo.798ff419268bc0baf33577488789967c.svg",
-    "index.html": "/facebbook/index.html",
-    "main.cbe9de9b.css.map": "/facebbook/static/css/main.cbe9de9b.css.map",
-    "main.0a1f26e2.js.map": "/facebbook/static/js/main.0a1f26e2.js.map"
+    "main.css": "/fb/static/css/main.cbe9de9b.css",
+    "main.js": "/fb/static/js/main.20bddd00.js",
+    "static/media/avatar.jpg": "/fb/static/media/avatar.33900b376ff866eb7fe5.jpg",
+    "static/media/logo.svg": "/fb/static/media/logo.798ff419268bc0baf33577488789967c.svg",
+    "index.html": "/fb/index.html",
+    "main.cbe9de9b.css.map": "/fb/static/css/main.cbe9de9b.css.map",
+    "main.20bddd00.js.map": "/fb/static/js/main.20bddd00.js.map"
   },
   "entrypoints": [
     "static/css/main.cbe9de9b.css",
-    "static/js/main.0a1f26e2.js"
+    "static/js/main.20bddd00.js"
   ]
 }
